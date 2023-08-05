@@ -1,4 +1,4 @@
-# System-gestion-d-etudiant
+# Full Stack Spring Boot and React CRUD
 Full Stack Spring Boot and React CRUD | MySQL | Hibernate 
 
 
